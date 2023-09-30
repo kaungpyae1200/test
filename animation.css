@@ -14,7 +14,9 @@
 body {
     margin: 0;
     padding: 0;
-
+    background-image: url(https://img.freepik.com/free-vector/back-school-background-with-different-elements_23-2147854890.jpg?size=338&ext=jpg&ga=GA1.2.161637787.1695988005&semt=ais);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .header {
